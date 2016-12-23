@@ -87,3 +87,4 @@ alias ls='ls -ltr'
 alias yum='apt-get'
 . <(azure --completion)
 eval $(dircolors -p | sed -e 's/DIR 01;34/DIR 01;36/' | dircolors /dev/stdin)
+function gi() { curl -L -s https://www.gitignore.io/api/$@ ;}
