@@ -1,0 +1,17 @@
+.bash_history
+.config/
+.dropbox-dist/
+.dropbox/
+.gitconfig
+.gvimrc
+.npm/
+.oh-my-zsh/
+.vim/
+.viminfo
+.zcompdump
+.zcompdump-CRUNK-5.0.2
+.zsh-update
+.zsh_history
+bashprofile/
+profile-12-23-2016.zip
+vimrc
