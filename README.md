@@ -21,3 +21,7 @@ updatedb
 
 ## addins
 http://fluxbox.org/features/
+
+## redis
+http://vvv.tobiassjosten.net/linux/installing-redis-on-ubuntu-with-apt/
+apt-get install redis-server
