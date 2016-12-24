@@ -25,3 +25,17 @@ http://fluxbox.org/features/
 ## redis
 http://vvv.tobiassjosten.net/linux/installing-redis-on-ubuntu-with-apt/
 apt-get install redis-server
+
+## zsh
+http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/
+http://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692
+
+## tmux
+https://robots.thoughtbot.com/a-tmux-crash-course
+
+## zsh theme
+https://github.com/robbyrussell/oh-my-zsh/wiki/themes#agnoster
+
+## Powerline fonts
+git clone https://github.com/powerline/fonts.git
+./fonts/install.sh

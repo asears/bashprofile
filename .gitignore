@@ -16,3 +16,8 @@
 bashprofile/
 profile-12-23-2016.zip
 vimrc
+*Download*
+.fluxbox/
+.local/
+fonts/
+zsh_hist
